@@ -1,0 +1,4 @@
+build.sh
+*.o
+main.c
+libmy.a
